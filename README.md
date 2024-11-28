@@ -1,4 +1,4 @@
-C:\Users\hadey\OneDrive\Documents\project3\frontend-mentor-project
+Cd C:\Users\hadey\OneDrive\Documents\project3\frontend-mentor-project
 git init
 git add .
 git commit -m "Initial commit"
